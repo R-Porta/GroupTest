@@ -12,7 +12,7 @@ public class DemoApplication {
 	public static double Number(int a, int b) {
 		int a = 10;
 		int b = 20;
-	}
+	} //esto debe salir 
 		
 	}
 
